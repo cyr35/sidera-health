@@ -1,0 +1,101 @@
+{
+  "nav": {
+    "about": "About",
+    "services": "Services",
+    "markets": "Markets",
+    "insights": "Insights",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Healthcare & Medical Devices",
+    "title": "Your product.<br><em>New markets.</em><br>Real results.",
+    "subtitle": "We guide healthcare and medical device companies through every stage of international expansion — from regulatory pathways to building and managing your distribution network in LATAM and Europe.",
+    "cta1": "Start a conversation",
+    "cta2": "Our services →"
+  },
+  "about": {
+    "eyebrow": "Who we are",
+    "title": "Strategic partners for<br>healthcare companies going <em>global</em>.",
+    "paragraph1": "Sidera Health was founded to bridge the gap between ambitious healthcare and medical device companies and the complex realities of entering new markets. We don't just advise — we connect, build, and manage the commercial infrastructure your expansion requires.",
+    "stat1": { "number": "10+", "label": "Markets covered" },
+    "stat2": { "number": "8+", "label": "Distribution networks" },
+    "stat3": { "number": "4", "label": "Regulatory frameworks" },
+    "quote": "\"Entering a regulated healthcare market is not just a sales challenge — it is an organizational, clinical, and regulatory one.\"",
+    "quoteAuthor": "— Founding Partner, Sidera Health"
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "title": "Five services.<br>One <em>seamless</em> journey.",
+    "service1": { "title": "Regulatory Advisory", "desc": "We connect you with specialized regulatory partners to obtain the certifications your medical device needs — CE Mark, ANVISA, ANMAT and more." },
+    "service2": { "title": "Market Entry Strategy", "desc": "We design your go-to-market strategy — pricing, positioning, channel selection and competitive analysis — grounded in real market intelligence." },
+    "service3": { "title": "Distributor Profiling", "desc": "We identify and evaluate distribution partners with the right healthcare expertise, market coverage, and values for your product." },
+    "service4": { "title": "Distributor Onboarding", "desc": "We structure agreements, train your distributors on product and compliance, and align goals and reporting from the start." },
+    "service5": { "title": "Network Management", "desc": "We provide ongoing management of your distribution network — monitoring performance, resolving challenges, and optimizing results." }
+  },
+  "feature": {
+    "eyebrow": "Our expertise",
+    "title": "Built for the <em>complexity</em> of healthcare markets.",
+    "desc": "Medical devices and healthcare products face unique barriers to international expansion. Regulatory requirements, clinical evidence standards, hospital procurement cycles and distributor qualification are just some of the hurdles we help you clear.",
+    "item1": "CE Mark, ANVISA, ANMAT regulatory pathways",
+    "item2": "Hospital & clinical channel expertise",
+    "item3": "Healthcare distributor networks in 15+ countries"
+  },
+  "markets": {
+    "eyebrow": "Where we operate",
+    "title": "Two regions.<br><em>Deep</em> local expertise.",
+    "latam": { "tag": "Latin America", "title": "LATAM", "desc": "Deep coverage in Brazil, Argentina, Mexico, Chile, Colombia and beyond — with full regulatory and commercial expertise." },
+    "europe": { "tag": "Europe", "title": "Europe", "desc": "CE marking, MDR compliance and robust distributor networks are the keys to sustainable healthcare growth across the EU." }
+  },
+  "insights": {
+    "eyebrow": "Insights",
+    "title": "Regulatory updates &amp;<br><em>industry intelligence</em>.",
+    "viewAll": "View all →",
+    "article1": {
+      "tag": "Regulatory · Europe",
+      "title": "EU MDR Transition Deadlines: What Medical Device Manufacturers Must Know Before 2026",
+      "desc": "The EU Medical Device Regulation continues to reshape market access timelines across Europe. We break down the key deadlines and what manufacturers should do now.",
+      "date": "April 2025"
+    },
+    "article2": {
+      "tag": "Regulatory · Brazil",
+      "title": "ANVISA's New Digital Submission Platform",
+      "desc": "Brazil's ANVISA has rolled out an updated digital registration process for faster market access.",
+      "date": "March 2025"
+    },
+    "article3": {
+      "tag": "Technology · Trends",
+      "title": "AI-Powered Diagnostics in LATAM",
+      "desc": "How do regulators in Argentina, Brazil and Chile classify AI-based medical software?",
+      "date": "February 2025"
+    }
+  },
+  "testimonials": {
+    "eyebrow": "What clients say",
+    "title": "Trusted by companies<br>entering <em>new markets</em>.",
+    "client1": {
+      "text": "Sidera Health gave us a clear roadmap for Brazil that we simply could not have built on our own. Their understanding of ANVISA and the local distribution landscape saved us months of uncertainty.",
+      "name": "Marcelo Costa",
+      "role": "VP International Sales",
+      "company": "MedTech Solutions · Brazil"
+    },
+    "client2": {
+      "text": "What sets them apart is that they don't just hand you a report — they stay with you through execution. The distributor they helped us select in Argentina has exceeded every KPI.",
+      "name": "Elena Fischer",
+      "role": "CEO",
+      "company": "Diagnostic Innovations · Germany"
+    }
+  },
+  "contact": {
+    "eyebrow": "Get in touch",
+    "title": "Ready to expand?<br>Let's <em>talk</em>.",
+    "desc": "Every expansion begins with a conversation. Tell us about your healthcare product and where you want to grow — we'll show you how to get there."
+  },
+  "footer": {
+    "copyright": "© 2025 Sidera Health. All rights reserved.",
+    "about": "About",
+    "services": "Services",
+    "markets": "Markets",
+    "insights": "Insights",
+    "contact": "Contact"
+  }
+}
